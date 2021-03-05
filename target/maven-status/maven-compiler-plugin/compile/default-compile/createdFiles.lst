@@ -1,0 +1,17 @@
+br/com/tiagocruz/ioasyschallenge/config/SwaggerConfig.class
+br/com/tiagocruz/ioasyschallenge/config/SwaggerConfigProperties.class
+br/com/tiagocruz/ioasyschallenge/domain/vos/UserRequestVo.class
+br/com/tiagocruz/ioasyschallenge/controllers/MovieController.class
+br/com/tiagocruz/ioasyschallenge/exceptions/IssueEnum.class
+br/com/tiagocruz/ioasyschallenge/domain/vos/UserResponseVo.class
+br/com/tiagocruz/ioasyschallenge/repositories/UserRepository.class
+br/com/tiagocruz/ioasyschallenge/exceptions/Issue.class
+br/com/tiagocruz/ioasyschallenge/exceptions/GlobalExceptionHandler.class
+br/com/tiagocruz/ioasyschallenge/domain/entities/UserEntity.class
+br/com/tiagocruz/ioasyschallenge/exceptions/GlobalException.class
+br/com/tiagocruz/ioasyschallenge/helpers/constants/ApiConstants.class
+br/com/tiagocruz/ioasyschallenge/config/MappingConfig.class
+br/com/tiagocruz/ioasyschallenge/exceptions/UserException.class
+br/com/tiagocruz/ioasyschallenge/controllers/UserController.class
+br/com/tiagocruz/ioasyschallenge/IoasyschallengeApplication.class
+br/com/tiagocruz/ioasyschallenge/services/UserService.class

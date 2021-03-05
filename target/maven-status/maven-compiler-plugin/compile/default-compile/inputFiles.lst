@@ -1,0 +1,17 @@
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/exceptions/Issue.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/exceptions/GlobalExceptionHandler.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/domain/entities/UserEntity.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/exceptions/GlobalException.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/repositories/UserRepository.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/exceptions/IssueEnum.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/IoasyschallengeApplication.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/config/SwaggerConfig.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/controllers/MovieController.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/domain/vos/UserResponseVo.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/services/UserService.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/exceptions/UserException.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/controllers/UserController.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/helpers/constants/ApiConstants.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/config/SwaggerConfigProperties.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/domain/vos/UserRequestVo.java
+/home/tiagoarrrudacruz/Documentos/Ioasys/ioasys_challenge/src/main/java/br/com/tiagocruz/ioasyschallenge/config/MappingConfig.java

@@ -1,0 +1,27 @@
+server:
+  port: 8080
+
+spring:
+  jpa:
+    hibernate.ddl-auto: none
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/ioasyschallenge
+    username: root
+    password: 123456
+  flyway:
+    baselineOnMigrate: true
+
+jwt:
+  secret: ioasys
+
+#Swagger
+api:
+  version: 1.0
+swagger:
+  enabled: true
+  title: Ioasys Challenge
+  description: Project related to Ioasys challenge to backend developer
+  useDefaultResponseMessages: false
+  enableUrlTemplating: false
+  deepLinking: false
